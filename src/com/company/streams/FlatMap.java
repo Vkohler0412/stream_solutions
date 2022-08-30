@@ -1,4 +1,4 @@
-package com.company;
+package com.company.streams;
 
 import java.util.List;
 import java.util.stream.Collectors;

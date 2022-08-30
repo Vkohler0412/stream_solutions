@@ -1,5 +1,7 @@
-package com.company;
+package com.company.test;
 
+import com.company.pojo.Person;
+import com.company.streams.*;
 import org.junit.Assert;
 import org.junit.Test;
 import java.util.*;

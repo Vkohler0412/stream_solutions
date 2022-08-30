@@ -1,4 +1,4 @@
-package com.company;
+package com.company.pojo;
 
 import java.util.List;
 import java.util.Map;

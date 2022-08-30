@@ -1,7 +1,8 @@
-package com.company;
+package com.company.streams;
+
+import com.company.pojo.Person;
 
 import java.util.List;
-import java.util.stream.IntStream;
 
 public class MaxAndComparator {
 
